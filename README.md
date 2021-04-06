@@ -1,3 +1,1 @@
-# lacunose
-
 Hello 👋
